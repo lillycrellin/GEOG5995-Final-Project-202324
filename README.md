@@ -28,7 +28,7 @@ Overall the code aims to offer a comprehensive analysis of the relationship betw
 - The code introduces deprivation data and uses a generalised linear regression model to explore the correlation between deprivation and crime.
 
 > [!NOTE]
-> When using the shapefile data the specifc file used is: **england_lsoa_2011.shp** 
+> When using the shapefile data the specifc file used is: **england_lsoa_2011.shp** (which is then subsetted to match the LSOAs used for the crime and deprivation data)
 
 
 
