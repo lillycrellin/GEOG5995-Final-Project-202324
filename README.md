@@ -27,6 +27,8 @@ Overall the code aims to offer a comprehensive analysis of the relationship betw
 - Visualisation methods are used to understand the nature and distribution of crime. Spatial mapping techniques, including choropleth maps, illustrate the spatial distribution of crime across Manchester.
 - The code introduces deprivation data and uses a generalised linear regression model to explore the correlation between deprivation and crime.
 
+> [!NOTE]
+> When using the shapefile data the specifc file used is: **england_lsoa_2011.shp** 
 
 
 
